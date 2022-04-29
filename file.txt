@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is my edit
+=======
 "This is git2-Viks"
+>>>>>>> 0450c75a02c7ab5897335dc5e20378e03bb8ca99
