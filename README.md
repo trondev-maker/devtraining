@@ -1,2 +1,2 @@
-# devtraining
-This is for training 
+# jenkin integration
+This is for training purpose
